@@ -1,9 +1,9 @@
-package com.starsapp.rest.webservices.restfullwebservices;
+package com.starsapp.rest.webservices.restfullwebservices.helloworld;
 
 public class HelloWorldBean {
     private String message;
 
-    HelloWorldBean(String message) {
+    public HelloWorldBean(String message) {
         this.message = message;
     }
 
