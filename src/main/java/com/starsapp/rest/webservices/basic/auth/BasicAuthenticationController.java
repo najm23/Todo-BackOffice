@@ -1,4 +1,4 @@
-package com.starsapp.rest.webservices.restfullwebservices.basic.auth;
+package com.starsapp.rest.webservices.basic.auth;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

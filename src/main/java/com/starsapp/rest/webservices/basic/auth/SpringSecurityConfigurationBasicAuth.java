@@ -1,4 +1,4 @@
-package com.starsapp.rest.webservices.restfullwebservices.basic.auth;
+package com.starsapp.rest.webservices.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

@@ -1,4 +1,4 @@
-package com.starsapp.rest.webservices.restfullwebservices.basic.auth;
+package com.starsapp.rest.webservices.basic.auth;
 
 public class AuthenticationBean {
     private String message;
